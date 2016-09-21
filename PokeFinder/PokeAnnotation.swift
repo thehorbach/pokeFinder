@@ -173,7 +173,7 @@ class PokeAnnotation: NSObject, MKAnnotation {
     init(coordinate: CLLocationCoordinate2D, pokeId: Int) {
         self.coordinate = coordinate
         self.pokemonId = pokeId
-        self.pokemonName = pokemon[pokeId-1].capitalized
+        self.pokemonName = pokemon[pokeId - 1].capitalized
         self.title = self.pokemonName
     }
 }

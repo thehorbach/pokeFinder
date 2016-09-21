@@ -35,6 +35,6 @@
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>&quot;You need to allow this to be able to see the Pokemons near by&quot;</string>
+	<string>Location is required to show nearby Pokemons. If you don&apos;t want to catch them all, keep your dang location to yourself!</string>
 </dict>
 </plist>
